@@ -1,0 +1,20 @@
+[project]
+name = "elliotv2"
+version = "0.1.0"
+description = "ELLIOTv2 using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.76.9,<1.0.0"
+]
+
+[project.scripts]
+elliotv2 = "elliotv2.main:run"
+run_crew = "elliotv2.main:run"
+train = "elliotv2.main:train"
+replay = "elliotv2.main:replay"
+test = "elliotv2.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

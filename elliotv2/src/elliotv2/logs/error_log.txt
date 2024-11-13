@@ -1,0 +1,122 @@
+2024-11-11T21:04:04.094560 - ERROR in PrefrontalCortex.add_task: Task name must be a non-empty string.
+2024-11-11T21:04:04.094560 - ERROR in Hippocampus.store: Metadata must be a dictionary.
+2024-11-11T21:04:04.098066 - ERROR in Cerebellum.store_workflow: Workflow name must be a non-empty string.
+2024-11-11T21:29:17.070499 - ERROR in Failed to route task add_task for Task Coordinator: 'PrefrontalCortex' object has no attribute 'logger'
+2024-11-11T21:29:17.070499 - ERROR in Failed to route task store for Declarative Memory: 'Hippocampus' object has no attribute 'logger'
+2024-11-11T21:29:17.070499 - ERROR in Failed to route task store_workflow for Procedural Memory: 'Cerebellum' object has no attribute 'logger'
+2024-11-11T21:50:02.994976 - ERROR in Failed to route task add_task for Task Coordinator: module 'logger' has no attribute 'log_error'
+2024-11-11T21:50:02.994976 - ERROR in Failed to route task store for Declarative Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T21:50:02.998975 - ERROR in Failed to route task store_workflow for Procedural Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T21:59:17.441387 - ERROR in Failed to route task store for Declarative Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T21:59:17.447766 - ERROR in Failed to route task add_task for Task Coordinator: module 'logger' has no attribute 'log_error'
+2024-11-11T21:59:17.448753 - ERROR in Failed to route task store for Declarative Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T21:59:17.449104 - ERROR in Failed to route task store_workflow for Procedural Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:08:36.017668 - ERROR in Failed to route task store for Declarative Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:08:36.023379 - ERROR in Failed to route task add_task for Task Coordinator: module 'logger' has no attribute 'log_error'
+2024-11-11T22:08:36.023379 - ERROR in Failed to route task store for Declarative Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:08:36.023379 - ERROR in Failed to route task store_workflow for Procedural Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:12:18.424663 - ERROR in Failed to route task store for Declarative Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:12:18.432577 - ERROR in Failed to route task add_task for Task Coordinator: module 'logger' has no attribute 'log_error'
+2024-11-11T22:12:18.433570 - ERROR in Failed to route task store for Declarative Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:12:18.433570 - ERROR in Failed to route task store_workflow for Procedural Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:15:58.843710 - ERROR in Failed to route task store for Declarative Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:15:58.852800 - ERROR in Failed to route task add_task for Task Coordinator: module 'logger' has no attribute 'log_error'
+2024-11-11T22:15:58.852800 - ERROR in Failed to route task store for Declarative Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:15:58.853807 - ERROR in Failed to route task store_workflow for Procedural Memory: module 'logger' has no attribute 'log_error'
+2024-11-11T22:35:42.293499 - ERROR in Failed to route task add_task for Task Coordinator: Agent Task Coordinator not found.
+2024-11-11T22:35:42.293499 - ERROR in Failed to route task view_archived_tasks for Task Coordinator: Agent Task Coordinator not found.
+2024-11-11T22:35:42.303879 - ERROR in Failed to route task add_task for Task Coordinator: Agent Task Coordinator not found.
+2024-11-11T22:35:42.304363 - ERROR in Hippocampus.store: Invalid metadata format: None
+2024-11-11T22:35:42.312816 - ERROR in Failed to route task add_task for Task Coordinator: Agent Task Coordinator not found.
+2024-11-11T22:35:42.314867 - ERROR in Hippocampus.store: Invalid metadata format: None
+2024-11-11T22:35:42.317873 - ERROR in Invalid workflow name for Cerebellum.store_workflow: None
+2024-11-11T22:35:42.317873 - ERROR in Cerebellum.store_workflow: [Errno 22] Invalid argument: 'data/cerebellum/Default_Workflow_2024-11-11T22:35:42.317873.pkl'
+2024-11-11T22:47:08.239305 - ERROR in Hippocampus.store: Invalid metadata format: None
+2024-11-11T22:47:08.248232 - ERROR in Failed to route task add_task for Task Coordinator: ErrorLogger.log_error() missing 1 required positional argument: 'error_message'
+2024-11-11T22:47:08.248232 - ERROR in Hippocampus.store: Invalid metadata format: None
+2024-11-11T22:47:08.251711 - ERROR in Cerebellum.store_workflow: Invalid workflow name: None
+2024-11-11T22:47:08.251711 - ERROR in Cerebellum.store_workflow: name 'sanitize_filename' is not defined
+2024-11-11T22:55:48.457285 - ERROR in PrefrontalCortex.add_task: cannot access local variable 'e' where it is not associated with a value
+2024-11-11T22:55:48.457285 - ERROR in Failed to route task add_task for Task Coordinator: cannot access local variable 'e' where it is not associated with a value
+2024-11-11T22:55:48.464799 - ERROR in PrefrontalCortex.add_task: cannot access local variable 'e' where it is not associated with a value
+2024-11-11T22:55:48.464799 - ERROR in Failed to route task add_task for Task Coordinator: cannot access local variable 'e' where it is not associated with a value
+2024-11-11T22:55:48.466845 - ERROR in Hippocampus.store: Invalid metadata format: None
+2024-11-11T22:55:48.472487 - ERROR in PrefrontalCortex.add_task: Task name must be a non-empty string.
+2024-11-11T22:55:48.472487 - ERROR in Failed to route task add_task for Task Coordinator: cannot access local variable 'e' where it is not associated with a value
+2024-11-11T22:55:48.476503 - ERROR in Hippocampus.store: Invalid metadata format: None
+2024-11-11T22:55:48.478833 - ERROR in Cerebellum.store_workflow: Invalid workflow name: None
+2024-11-11T22:55:48.479841 - ERROR in Cerebellum.store_workflow: 'Cerebellum' object has no attribute 'sanitize_filename'
+2024-11-11T22:58:02.159262 - ERROR in PrefrontalCortex.add_task: Task name must be a non-empty string.
+2024-11-11T22:58:02.162605 - ERROR in Cerebellum.store_workflow: Invalid workflow name: None
+2024-11-11T22:58:02.162605 - ERROR in Cerebellum.store_workflow: type object 'Cerebellum' has no attribute 'sanitize_filename'
+2024-11-11T23:02:47.912707 - ERROR in PrefrontalCortex.add_task: Task name must be a non-empty string.
+2024-11-11T23:02:47.916714 - ERROR in Hippocampus.store: Memory key must be a non-empty string.
+2024-11-11T23:02:47.917040 - ERROR in Cerebellum.store_workflow: Invalid workflow name: None
+2024-11-11T23:02:47.917361 - ERROR in Cerebellum.store_workflow: type object 'Cerebellum' has no attribute 'sanitize_filename'
+2024-11-11T23:04:43.944835 - ERROR in PrefrontalCortex.add_task: Task name must be a non-empty string.
+2024-11-11T23:04:43.948360 - ERROR in Hippocampus.store: Memory key must be a non-empty string.
+2024-11-11T23:04:43.948360 - ERROR in Cerebellum.store_workflow: Invalid workflow name: None
+2024-11-11T23:10:15.757658 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'str' and 'int'
+2024-11-11T23:10:15.757658 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.757658 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.757658 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.757658 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.757658 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.757658 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.757658 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.757658 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.761654 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.761654 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.761654 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.761654 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.763163 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.763568 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.763568 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.763568 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.764577 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.765279 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.765279 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.765279 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.766388 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.766388 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.767389 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.767389 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:15.767389 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:10:16.093429 - ERROR in Failed to route task optimize_workflow for Procedural Memory: 'str' object has no attribute 'items'
+2024-11-11T23:15:59.185996 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'str' and 'int'
+2024-11-11T23:15:59.185996 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.185996 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.185996 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.185996 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.185996 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.185996 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.185996 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.189992 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.189992 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.189992 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.189992 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.189992 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.189992 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.191998 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.191998 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.192677 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.192677 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.193687 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.193931 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.193931 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.194448 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.194448 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.195479 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.195479 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.196259 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:15:59.512007 - ERROR in Failed to route task optimize_workflow for Procedural Memory: 'str' object has no attribute 'items'
+2024-11-11T23:15:59.514445 - ERROR in Failed to route task non_existent_method for NonExistentAgent: Agent NonExistentAgent not found.
+2024-11-11T23:15:59.514445 - ERROR in PrefrontalCortex.add_task: '<' not supported between instances of 'int' and 'str'
+2024-11-11T23:32:47.821220 - ERROR in Failed to route task non_existent_method for NonExistentAgent: Agent NonExistentAgent not found.
+2024-11-11T23:38:05.256382 - ERROR in PrefrontalCortex.add_task: Task name must be a non-empty string.
+2024-11-11T23:38:05.257076 - ERROR in Hippocampus.store: Memory key must be a non-empty string.
+2024-11-11T23:38:05.257076 - ERROR in Cerebellum.store_workflow: Invalid workflow name: None
+2024-11-12T00:03:00.064926 - ERROR in PrefrontalCortex.add_task: Task name must be a non-empty string.
+2024-11-12T00:03:00.064926 - ERROR in Hippocampus.store: Memory key must be a non-empty string.
+2024-11-12T00:03:00.064926 - ERROR in store_workflow: Workflow name must be a non-empty string.
+2024-11-12T00:03:00.064926 - ERROR in store_workflow: Workflow name must be a non-empty string.
